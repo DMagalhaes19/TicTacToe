@@ -1,15 +1,3 @@
-#By using the minimax algorithm, create a tic tac toe game that can be played against the computer or another player (2 player mode) 
-#The game should be able to detect a win, loss, or tie and display the appropriate message
-#The game should be able to detect if a player is trying to make an illegal move and display the appropriate message
-#Implement a GUI for the game wihtout using any external libraries
-#implement a way to keep track of the score
-#implement a way to reset the game
-#implement a way to change the difficulty of the game (easy, medium, hard)
-#implement a way to change the game mode (1 player, 2 player)
-#implement a way to change the game board size (3x3, 4x4, 5x5, etc)
-#implement a way to change the game piece (X, O, etc)
-#implement a way to change the color of the game board
-
 import random
 
 #global variables
